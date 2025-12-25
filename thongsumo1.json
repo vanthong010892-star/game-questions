@@ -1,444 +1,247 @@
+
 {
   "questions": [
     {
       "id": 1,
-      "q": "Số hữu tỉ bao gồm:",
-      "a": [
-        "Số nguyên và số thập phân hữu hạn/vô hạn tuần hoàn",
-        "Chỉ số nguyên dương",
-        "Chỉ số tự nhiên",
-        "Số thập phân vô hạn không tuần hoàn"
-      ],
+      "q": "Trong tập số tự nhiên (N), số nhỏ nhất là:",
+      "a": ["0", "1", "-1", "Không có"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Kết quả của phép tính $\\frac{-3}{4} + \\frac{1}{2}$ là:",
-      "a": [
-        "$\\frac{-1}{4}$",
-        "$\\frac{-2}{6}$",
-        "$\\frac{-5}{4}$",
-        "$-\\frac{1}{2}$"
-      ],
+      "q": "Giá trị của 3^4 là:",
+      "a": ["81", "12", "27", "64"],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "Lũy thừa bậc n của số hữu tỉ x (kí hiệu $x^n$) là:",
-      "a": [
-        "Tích của n thừa số x",
-        "Tổng của n số hạng x",
-        "Tích của x và n",
-        "Thương của x và n"
-      ],
+      "q": "Kết quả 2^5 · 2^3 bằng:",
+      "a": ["2^8", "2^15", "4^8", "2^2"],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "Kết quả của phép tính $(0,5)^2$ là:",
-      "a": [
-        "$0,25$",
-        "$0,5$",
-        "$2,5$",
-        "$0,025$"
-      ],
+      "q": "Thực hiện phép tính: 120 - 30 : 5 × 2 + 4^2",
+      "a": ["124", "92", "140", "100"],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "Phép nhân hai lũy thừa cùng cơ số $x^5 . x^3$ bằng:",
-      "a": [
-        "$x^8$",
-        "$x^{15}$",
-        "$x^2$",
-        "$x^{5/3}$"
-      ],
+      "q": "Số nào sau đây chia hết cho 2?",
+      "a": ["246", "135", "377", "519"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "Hình hộp chữ nhật có bao nhiêu đỉnh?",
-      "a": [
-        "8 đỉnh",
-        "6 đỉnh",
-        "12 đỉnh",
-        "10 đỉnh"
-      ],
+      "q": "Số nào sau đây chia hết cho 5?",
+      "a": ["315", "248", "417", "532"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Công thức tính thể tích hình lập phương cạnh a là:",
-      "a": [
-        "$V = a^3$",
-        "$V = a^2$",
-        "$V = 4a$",
-        "$V = 6a^2$"
-      ],
+      "q": "Số 4572 chia hết cho 3 vì:",
+      "a": ["Tổng các chữ số bằng 18", "Có chữ số tận cùng là 2", "Có 2 chữ số 7 và 2", "Chia cho 3 được số nguyên tố"],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Lăng trụ đứng tam giác có các mặt bên là hình gì?",
-      "a": [
-        "Hình chữ nhật",
-        "Hình tam giác",
-        "Hình vuông",
-        "Hình bình hành"
-      ],
+      "q": "Số nào sau đây chia hết cho 9?",
+      "a": ["9999", "1234", "4563", "2718"],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "Diện tích xung quanh của hình hộp chữ nhật có kích thước đáy a, b và chiều cao h là:",
-      "a": [
-        "$S_{xq} = 2(a+b)h$",
-        "$S_{xq} = (a+b)h$",
-        "$S_{xq} = abh$",
-        "$S_{xq} = 2ab + 2bh$"
-      ],
+      "q": "Số nào sau đây là số nguyên tố?",
+      "a": ["29", "21", "39", "49"],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Hai góc kề bù có tổng số đo bằng:",
-      "a": [
-        "$180^o$",
-        "$90^o$",
-        "$360^o$",
-        "$45^o$"
-      ],
+      "q": "Số nào sau đây là hợp số?",
+      "a": ["27", "2", "3", "11"],
       "correct": 0
     },
     {
       "id": 11,
-      "q": "Tia phân giác của một góc là tia:",
-      "a": [
-        "Nằm giữa hai cạnh và tạo với hai cạnh ấy hai góc bằng nhau",
-        "Nằm bên ngoài góc đó",
-        "Vuông góc với một cạnh của góc",
-        "Chia góc đó thành hai phần không bằng nhau"
-      ],
+      "q": "Phân tích 60 ra thừa số nguyên tố là:",
+      "a": ["60 = 2^2 · 3 · 5", "60 = 2 · 3 · 10", "60 = 6 · 10", "60 = 2^3 · 3 · 5"],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "Tiên đề Euclid về đường thẳng song song phát biểu rằng:",
-      "a": [
-        "Qua một điểm ở ngoài đường thẳng, chỉ có một đường thẳng song song với nó",
-        "Qua một điểm ở ngoài đường thẳng, có vô số đường thẳng song song với nó",
-        "Hai đường thẳng song song thì không bao giờ cắt nhau",
-        "Hai đường thẳng vuông góc thì cắt nhau"
-      ],
+      "q": "ƯCLN(24; 36) bằng:",
+      "a": ["12", "6", "8", "72"],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "Căn bậc hai số học của 49 là:",
-      "a": [
-        "$7$",
-        "$-7$",
-        "$\\pm 7$",
-        "$24,5$"
-      ],
+      "q": "BCNN(6; 8) bằng:",
+      "a": ["24", "12", "14", "48"],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "Số vô tỉ là số viết được dưới dạng:",
-      "a": [
-        "Số thập phân vô hạn không tuần hoàn",
-        "Số thập phân hữu hạn",
-        "Số thập phân vô hạn tuần hoàn",
-        "Phân số $\\frac{a}{b}$"
-      ],
+      "q": "Rút gọn phân số 18/24 được:",
+      "a": ["3/4", "9/12", "6/8", "2/3"],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Làm tròn số $76,423$ đến độ chính xác $0,05$ (hàng phần chục):",
-      "a": [
-        "$76,4$",
-        "$76,5$",
-        "$76,42$",
-        "$76$"
-      ],
+      "q": "Số đối của -7 là:",
+      "a": ["7", "-7", "0", "14"],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "Tập hợp số thực $\\mathbb{R}$ bao gồm:",
-      "a": [
-        "Số hữu tỉ và số vô tỉ",
-        "Số nguyên và số tự nhiên",
-        "Chỉ số dương",
-        "Chỉ số âm"
-      ],
+      "q": "Trong các số -3, -5, 0, 2, số nhỏ nhất là:",
+      "a": ["-5", "-3", "0", "2"],
       "correct": 0
     },
     {
       "id": 17,
-      "q": "Giá trị tuyệt đối của $-1,5$ là:",
-      "a": [
-        "$1,5$",
-        "$-1,5$",
-        "$0$",
-        "$2,25$"
-      ],
+      "q": "Tính: -12 + 5",
+      "a": ["-7", "17", "-17", "7"],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "Dữ liệu nào sau đây là số liệu (định lượng)?",
-      "a": [
-        "Chiều cao của học sinh (cm)",
-        "Màu sắc ưa thích",
-        "Xếp loại học lực (Giỏi, Khá...)",
-        "Nơi sinh"
-      ],
+      "q": "Tính: 8 - (-6)",
+      "a": ["14", "2", "-14", "-2"],
       "correct": 0
     },
     {
       "id": 19,
-      "q": "Biểu đồ hình quạt tròn dùng để thể hiện:",
-      "a": [
-        "Cơ cấu, tỉ lệ phần trăm của các thành phần",
-        "Sự thay đổi theo thời gian",
-        "So sánh độ lớn giữa các đối tượng",
-        "Vị trí địa lý"
-      ],
+      "q": "Tính: (-4) × (-7)",
+      "a": ["28", "-28", "-11", "11"],
       "correct": 0
     },
     {
       "id": 20,
-      "q": "Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì:",
-      "a": [
-        "Chúng song song với nhau",
-        "Chúng cắt nhau",
-        "Chúng vuông góc với nhau",
-        "Chúng trùng nhau"
-      ],
+      "q": "Số nhỏ nhất cần cộng thêm vào 257 để được số chia hết cho 9 là:",
+      "a": ["4", "2", "3", "5"],
       "correct": 0
     },
     {
       "id": 21,
-      "q": "Nếu đường thẳng c cắt hai đường thẳng a, b và có một cặp góc so le trong bằng nhau thì:",
-      "a": [
-        "$a // b$",
-        "$a \\perp b$",
-        "$a$ trùng $b$",
-        "a và b cắt nhau"
-      ],
+      "q": "Tam giác đều có:",
+      "a": ["3 cạnh bằng nhau", "3 góc vuông", "2 cạnh bằng nhau", "1 góc tù"],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "Kết quả của $\\sqrt{0,09}$ là:",
-      "a": [
-        "$0,3$",
-        "$0,03$",
-        "$0,81$",
-        "$0,0081$"
-      ],
+      "q": "Hình chữ nhật có:",
+      "a": ["4 góc vuông", "4 cạnh bằng nhau", "2 đường chéo vuông góc", "3 góc bằng nhau"],
       "correct": 0
     },
     {
       "id": 23,
-      "q": "Một hồ bơi có dạng hình hộp chữ nhật, thể tích nước là $V = S_{đáy} . h$. $S_{đáy}$ là:",
-      "a": [
-        "Diện tích đáy hồ",
-        "Chu vi đáy hồ",
-        "Diện tích xung quanh",
-        "Chiều dài hồ"
-      ],
+      "q": "Hình vuông vừa là hình chữ nhật vừa là hình thoi vì:",
+      "a": ["Có 4 góc vuông và 4 cạnh bằng nhau", "Có 4 góc nhọn", "Có 2 cạnh dài, 2 cạnh ngắn", "Có 2 đường chéo không bằng nhau"],
       "correct": 0
     },
     {
       "id": 24,
-      "q": "Lăng trụ đứng tứ giác có đáy là hình vuông, chiều cao 5cm, cạnh đáy 2cm. Thể tích là:",
-      "a": [
-        "$20 cm^3$",
-        "$10 cm^3$",
-        "$40 cm^3$",
-        "$50 cm^3$"
-      ],
+      "q": "Hình thoi có đặc điểm đúng là:",
+      "a": ["4 cạnh bằng nhau", "4 góc vuông", "2 cạnh bằng nhau", "Không có đường chéo"],
       "correct": 0
     },
     {
       "id": 25,
-      "q": "Góc đối đỉnh với góc có số đo $60^o$ thì có số đo là:",
-      "a": [
-        "$60^o$",
-        "$120^o$",
-        "$30^o$",
-        "$90^o$"
-      ],
+      "q": "Hình bình hành có:",
+      "a": ["2 cặp cạnh đối song song", "4 cạnh bằng nhau và 4 góc vuông", "1 cặp cạnh song song", "2 đường chéo luôn bằng nhau"],
       "correct": 0
     },
     {
       "id": 26,
-      "q": "Biểu đồ đoạn thẳng thường được dùng để:",
-      "a": [
-        "Biểu diễn sự thay đổi của một đại lượng theo thời gian",
-        "So sánh các thành phần trong tổng thể",
-        "Đếm số lượng đối tượng",
-        "Vẽ hình học"
-      ],
+      "q": "Hình thang cân là hình thang có:",
+      "a": ["Hai cạnh bên bằng nhau", "Hai cạnh đáy bằng nhau", "Bốn cạnh bằng nhau", "Hai đường chéo vuông góc"],
       "correct": 0
     },
     {
       "id": 27,
-      "q": "Cho $x = \\frac{2}{-5}$. Số đối của x là:",
-      "a": [
-        "$\\frac{2}{5}$",
-        "$\\frac{-2}{5}$",
-        "$\\frac{5}{2}$",
-        "$-\\frac{5}{2}$"
-      ],
+      "q": "Lục giác đều có:",
+      "a": ["6 cạnh bằng nhau và 6 góc bằng nhau", "6 cạnh bằng nhau và 3 góc bằng nhau", "6 góc vuông", "6 cạnh nhưng không cần bằng nhau"],
       "correct": 0
     },
     {
       "id": 28,
-      "q": "Kết quả của phép chia $\\left(\\frac{-1}{2}\\right)^3 : \\left(\\frac{-1}{2}\\right)$ là:",
-      "a": [
-        "$\\frac{1}{4}$",
-        "$\\frac{-1}{4}$",
-        "$\\frac{1}{8}$",
-        "$\\frac{-1}{8}$"
-      ],
+      "q": "Hình chữ nhật có số đường chéo là:",
+      "a": ["2", "1", "3", "4"],
       "correct": 0
     },
     {
       "id": 29,
-      "q": "Trong các số sau, số nào là số thập phân vô hạn tuần hoàn?",
-      "a": [
-        "$0,(3)$",
-        "$1,25$",
-        "$3,14159...$",
-        "$\\sqrt{2}$"
-      ],
+      "q": "Chu vi hình vuông cạnh 7 cm là:",
+      "a": ["28 cm", "14 cm", "21 cm", "49 cm"],
       "correct": 0
     },
     {
       "id": 30,
-      "q": "Định lí là một khẳng định được suy ra từ:",
-      "a": [
-        "Những khẳng định đúng đã biết",
-        "Việc đo đạc thực tế",
-        "Dự đoán cảm tính",
-        "Hình vẽ trực quan"
-      ],
+      "q": "Diện tích hình chữ nhật có chiều dài 8 cm, chiều rộng 5 cm là:",
+      "a": ["40 cm^2", "13 cm^2", "26 cm^2", "80 cm^2"],
       "correct": 0
     },
     {
       "id": 31,
-      "q": "Phần giả thiết của định lí thường nằm sau từ:",
-      "a": [
-        "Nếu",
-        "Thì",
-        "Và",
-        "Hoặc"
-      ],
+      "q": "Diện tích hình bình hành có đáy 10 cm và chiều cao 6 cm là:",
+      "a": ["60 cm^2", "16 cm^2", "30 cm^2", "120 cm^2"],
       "correct": 0
     },
     {
       "id": 32,
-      "q": "Diện tích xung quanh của hình lập phương có cạnh 3cm là:",
-      "a": [
-        "$36 cm^2$",
-        "$54 cm^2$",
-        "$27 cm^2$",
-        "$9 cm^2$"
-      ],
+      "q": "Diện tích hình thoi có hai đường chéo 10 cm và 8 cm là:",
+      "a": ["40 cm^2", "18 cm^2", "80 cm^2", "90 cm^2"],
       "correct": 0
     },
     {
       "id": 33,
-      "q": "Hình lăng trụ đứng tam giác có bao nhiêu cạnh?",
-      "a": [
-        "9 cạnh",
-        "6 cạnh",
-        "12 cạnh",
-        "5 cạnh"
-      ],
+      "q": "Dữ liệu nào sau đây là hợp lí khi ghi “chiều cao (cm) của học sinh”?",
+      "a": ["155", "-150", "0", "-20"],
       "correct": 0
     },
     {
       "id": 34,
-      "q": "Số $\\sqrt{3}$ thuộc tập hợp nào?",
-      "a": [
-        "$\\mathbb{I}$ (Số vô tỉ)",
-        "$\\mathbb{Q}$ (Số hữu tỉ)",
-        "$\\mathbb{Z}$ (Số nguyên)",
-        "$\\mathbb{N}$ (Số tự nhiên)"
-      ],
+      "q": "Sắp xếp dãy số sau theo thứ tự tăng dần: 7, 3, 9, 3, 5",
+      "a": ["3, 3, 5, 7, 9", "3, 5, 3, 7, 9", "9, 7, 5, 3, 3", "3, 3, 7, 5, 9"],
       "correct": 0
     },
     {
       "id": 35,
-      "q": "Qua một điểm nằm ngoài đường thẳng d, kẻ được bao nhiêu đường thẳng vuông góc với d?",
-      "a": [
-        "Duy nhất 1",
-        "2",
-        "Vô số",
-        "Không kẻ được"
-      ],
+      "q": "Điểm kiểm tra của 6 bạn: 8, 7, 8, 6, 8, 7. Giá trị xuất hiện nhiều nhất là:",
+      "a": ["8", "6", "7", "9"],
       "correct": 0
     },
     {
       "id": 36,
-      "q": "Cho hình hộp chữ nhật ABCD.A'B'C'D'. Cạnh bằng cạnh AA' là:",
-      "a": [
-        "DD'",
-        "AB",
-        "AD",
-        "A'B'"
-      ],
+      "q": "Bảng tần số: Táo 6, Cam 9, Chuối 5, Xoài 4. Tổng số học sinh được khảo sát là:",
+      "a": ["24", "20", "22", "26"],
       "correct": 0
     },
     {
       "id": 37,
-      "q": "Làm tròn số $a = 1567$ đến hàng trăm:",
-      "a": [
-        "$1600$",
-        "$1500$",
-        "$1570$",
-        "$1560$"
-      ],
+      "q": "Theo bảng ở câu trước (Táo 6, Cam 9, Chuối 5, Xoài 4), loại trái cây được yêu thích nhiều nhất là:",
+      "a": ["Cam", "Táo", "Chuối", "Xoài"],
       "correct": 0
     },
     {
       "id": 38,
-      "q": "Kết quả phép tính $2^3 . 2^2$ viết dưới dạng lũy thừa là:",
-      "a": [
-        "$2^5$",
-        "$2^6$",
-        "$4^5$",
-        "$4^6$"
-      ],
+      "q": "Khi muốn so sánh số học sinh thích 2 loại trái cây theo từng lớp (6A, 6B, 6C), ta nên dùng:",
+      "a": ["Biểu đồ cột kép", "Biểu đồ tranh", "Biểu đồ cột", "Bảng số liệu không cần biểu đồ"],
       "correct": 0
     },
     {
       "id": 39,
-      "q": "Biểu đồ nào thích hợp để so sánh tỉ lệ sở thích thể thao (Bóng đá, Cầu lông, Bơi) của lớp 7A?",
-      "a": [
-        "Biểu đồ hình quạt tròn",
-        "Biểu đồ đoạn thẳng",
-        "Biểu đồ tranh",
-        "Biểu đồ cột chồng"
-      ],
+      "q": "Số sách đọc trong tháng của 5 bạn: 2, 4, 1, 3, 5. Số sách trung bình mỗi bạn đọc là:",
+      "a": ["3", "2", "4", "5"],
       "correct": 0
     },
     {
       "id": 40,
-      "q": "Hai đường thẳng song song là hai đường thẳng:",
-      "a": [
-        "Không có điểm chung",
-        "Có 1 điểm chung",
-        "Có 2 điểm chung",
-        "Vuông góc với nhau"
-      ],
+      "q": "Một bảng số liệu có các giá trị: 10, 12, 11, 12, 13, 12. Tần số của giá trị 12 là:",
+      "a": ["3", "1", "2", "4"],
       "correct": 0
     }
   ]
 }
+```
+
