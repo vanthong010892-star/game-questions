@@ -2,122 +2,122 @@
   "questions": [
     {
       "id": 1,
-      "q": "Tính: 48 + 27 =",
-      "a": ["75", "65", "85", "73"],
+      "q": "Một cửa hàng bán 3 quyển vở giá 12.000đ/quyển và 2 cây bút giá 6.000đ/cây. Khách trả 50.000đ. Hỏi khách được thối lại bao nhiêu tiền?",
+      "a": ["2.000đ", "4.000đ", "6.000đ", "8.000đ"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Tính: 120 - 45 =",
-      "a": ["75", "85", "65", "70"],
+      "q": "Tính nhanh: 25 × 48 =",
+      "a": ["1200", "1150", "1250", "1000"],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "Tính: 15 × 6 =",
-      "a": ["90", "96", "80", "60"],
+      "q": "Tính: 300 - (45 × 4) + 18 : 3 =",
+      "a": ["126", "120", "132", "136"],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "Tính: 84 : 7 =",
-      "a": ["12", "10", "14", "11"],
+      "q": "Một thùng có 96 chai nước, xếp đều vào 8 khay. Hỏi mỗi khay có bao nhiêu chai?",
+      "a": ["12 chai", "10 chai", "14 chai", "16 chai"],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "Giá trị của 2^6 là:",
-      "a": ["64", "12", "36", "62"],
+      "q": "Một số chia cho 9 dư 5. Nếu tăng số đó thêm 4 thì số mới chia cho 9 dư mấy?",
+      "a": ["0", "1", "5", "9"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "Thực hiện phép tính: 5^2 + 3^2 =",
-      "a": ["34", "25", "28", "36"],
+      "q": "Tìm số tự nhiên nhỏ nhất chia cho 6 dư 1 và chia cho 5 dư 1.",
+      "a": ["31", "11", "21", "41"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Số nào sau đây chia hết cho 2?",
-      "a": ["318", "317", "319", "315"],
+      "q": "Tìm ƯCLN của 36 và 84 rồi tính tổng các ước chung của hai số đó.",
+      "a": ["24", "12", "18", "36"],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Số nào sau đây chia hết cho 5?",
-      "a": ["1 235", "1 234", "1 233", "1 232"],
+      "q": "Rút gọn phân số 45/60 rồi đổi kết quả ra dạng phân số tối giản.",
+      "a": ["3/4", "4/3", "9/12", "15/20"],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "Số 4 506 chia hết cho 3 vì:",
-      "a": ["Tổng các chữ số bằng 15", "Chữ số tận cùng là 6", "Có chữ số 0", "Là số chẵn"],
+      "q": "Hai lớp 6A và 6B lần lượt có 28 và 35 học sinh. Nhà trường muốn chia học sinh thành các nhóm bằng nhau, mỗi nhóm chỉ gồm học sinh của một lớp. Số nhóm nhiều nhất có thể chia được là:",
+      "a": ["7 nhóm", "5 nhóm", "6 nhóm", "8 nhóm"],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Số nào sau đây chia hết cho 9?",
-      "a": ["7 326", "7 325", "7 324", "7 323"],
+      "q": "Một đội cần xếp 72 chai và 90 chai vào các thùng sao cho mỗi thùng có số chai như nhau và không thừa. Số chai trong mỗi thùng lớn nhất là:",
+      "a": ["18", "9", "36", "24"],
       "correct": 0
     },
     {
       "id": 11,
-      "q": "Số nào sau đây là số nguyên tố?",
-      "a": ["31", "33", "35", "39"],
-      "correct": 0
-    },
-    {
-      "id": 12,
-      "q": "Số nào sau đây là hợp số?",
-      "a": ["21", "19", "17", "13"],
-      "correct": 0
-    },
-    {
-      "id": 13,
-      "q": "ƯCLN(18; 24) bằng:",
-      "a": ["6", "3", "12", "24"],
-      "correct": 0
-    },
-    {
-      "id": 14,
-      "q": "BCNN(4; 6) bằng:",
-      "a": ["12", "10", "24", "6"],
-      "correct": 0
-    },
-    {
-      "id": 15,
-      "q": "Rút gọn phân số 20/30 được:",
-      "a": ["2/3", "3/2", "10/15", "4/5"],
-      "correct": 0
-    },
-    {
-      "id": 16,
-      "q": "Số đối của -9 là:",
-      "a": ["9", "-9", "0", "18"],
-      "correct": 0
-    },
-    {
-      "id": 17,
-      "q": "Tính: -7 + 12 =",
+      "q": "Tính: (-15) + 8 - (-12) =",
       "a": ["5", "-5", "19", "-19"],
       "correct": 0
     },
     {
+      "id": 12,
+      "q": "Nhiệt độ buổi sáng là -3°C, đến trưa tăng 7°C rồi đến tối giảm 5°C. Nhiệt độ buổi tối là:",
+      "a": ["-1°C", "1°C", "-5°C", "5°C"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "q": "Tính: (-6) × 4 + 30 : (-5) =",
+      "a": ["-30", "-18", "30", "18"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "q": "Trên trục số, điểm A ở -7, điểm B ở 5. Khoảng cách AB bằng:",
+      "a": ["12", "2", "10", "14"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "q": "Một hình chữ nhật có chu vi 54 cm, chiều dài hơn chiều rộng 9 cm. Chiều dài là:",
+      "a": ["18 cm", "16 cm", "20 cm", "15 cm"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "Một hình vuông có diện tích 169 cm^2. Chu vi của hình vuông đó là:",
+      "a": ["52 cm", "26 cm", "39 cm", "48 cm"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "q": "Một hình bình hành có đáy 12 cm, chiều cao 7 cm. Nếu tăng đáy thêm 3 cm và giảm chiều cao 1 cm thì diện tích mới là:",
+      "a": ["90 cm^2", "84 cm^2", "96 cm^2", "88 cm^2"],
+      "correct": 0
+    },
+    {
       "id": 18,
-      "q": "Tính: 6 - (-8) =",
-      "a": ["14", "-2", "-14", "2"],
+      "q": "Một hình thoi có hai đường chéo 16 cm và 10 cm. Diện tích hình thoi là:",
+      "a": ["80 cm^2", "160 cm^2", "60 cm^2", "26 cm^2"],
       "correct": 0
     },
     {
       "id": 19,
-      "q": "Tính: (-3) × 7 =",
-      "a": ["-21", "21", "-10", "10"],
+      "q": "Số học sinh tham gia 3 câu lạc bộ: Bóng đá 18 bạn, Cờ vua 12 bạn, Mĩ thuật 15 bạn. Tổng số học sinh tham gia cả 3 câu lạc bộ là 45 bạn. Hỏi dữ liệu này hợp lí hay không (giả sử mỗi học sinh chỉ được tham gia 1 câu lạc bộ)?",
+      "a": ["Hợp lí", "Không hợp lí vì thiếu dữ liệu", "Không hợp lí vì tổng phải nhỏ hơn 45", "Không hợp lí vì tổng phải lớn hơn 45"],
       "correct": 0
     },
     {
       "id": 20,
-      "q": "Tính: (-24) : 6 =",
-      "a": ["-4", "4", "-6", "6"],
+      "q": "Một lớp ghi số sách đọc trong tháng của 5 bạn: 2, 6, 3, 5, 4. Nếu vẽ biểu đồ cột, cột cao nhất ứng với số sách là:",
+      "a": ["6", "5", "4", "3"],
       "correct": 0
     }
   ]
